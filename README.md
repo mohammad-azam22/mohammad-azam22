@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Azam</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount+Single&size=40&duration=6000&pause=5000&color=F7F500&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Mohammad+Azam)](https://git.io/typing-svg)
 <h3 align="center">Developer | Data Science Enthusiast</h3>
 
 ---
