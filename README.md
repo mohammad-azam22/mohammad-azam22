@@ -9,55 +9,62 @@
 ### Programming
 | Name | Proficiency |
 |------|-------------|
-| <a href="">Python</a> | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ |  
-| <a href="">Java</a> | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ |  
-| <a href="">JavaScript</a> | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ |  
-| <a href="">HTML</a> | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ |  
-| <a href="">CSS</a> | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ |  
-| <a href="">SQL</a> | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ |  
+| <a href="https://www.python.org/">Python</a> | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ |  
+| <a href="https://www.java.com/en/">Java</a> | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ |  
+| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a> | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ |  
+| <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a> | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ |  
+| <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a> | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ |  
 
-### 🔵 Data Science & Machine Learning
+### Data Science & Machine Learning
 | Name | Proficiency |
 |------|-------------|
-| <a href="">NumPy</a> | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ |  
-| <a href="">Pandas</a> | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ |  
-| <a href="">Matplotlib</a> | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ |  
-| <a href="">Seaborn</a> | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ |  
-| <a href="">Scikit Learn</a> | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ |  
-| <a href="">Tensorflow</a> | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ |  
-| <a href="">Keras</a> | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ |
+| <a href="https://numpy.org/">NumPy</a> | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ |  
+| <a href="https://pandas.pydata.org/">Pandas</a> | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ |  
+| <a href="https://matplotlib.org/">Matplotlib</a> | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ |  
+| <a href="https://seaborn.pydata.org/">Seaborn</a> | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ |  
+| <a href="https://scikit-learn.org/stable/">Scikit Learn</a> | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ |  
+| <a href="https://www.tensorflow.org/">Tensorflow</a> | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ |  
+| <a href="https://keras.io/">Keras</a> | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ |
 
-### 🟣 MLOps & Monitoring
+### MLOps & Monitoring
 | Name | Proficiency |
 |------|-------------|
-| <a href="">Docker</a> | 🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪ |  
-| <a href="">Grafana</a> | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ |  
-| <a href="">MLflow</a> | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ |  
-| <a href="">Evidently</a> | 🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪ |  
+| <a href="https://www.docker.com/">Docker</a> | 🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪ |  
+| <a href="https://grafana.com/">Grafana</a> | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ |  
+| <a href="https://mlflow.org/">MLflow</a> | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ |  
+| <a href="https://www.evidentlyai.com/ml-monitoring">Evidently</a> | 🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪ |  
 
-### 🟡 Backend & Automation
+### Backend & Automation
 | Name | Proficiency |
 |------|-------------|
-| <a href="">Node.js</a> | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ |  
-| <a href="">Express.js</a> | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ | 
-| <a href="">Flask</a> | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ |  
-| <a href="">Selenium</a> | 🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪ |  
-| <a href="">Mongoose</a> | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ |  
+| <a href="https://nodejs.org/en">Node.js</a> | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ |  
+| <a href="https://expressjs.com/">Express.js</a> | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ | 
+| <a href="https://flask.palletsprojects.com/en/stable/">Flask</a> | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ |  
+| <a href="https://www.selenium.dev/documentation/webdriver/">Selenium WebDriver</a> | 🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪ |  
 
-### 🟥 Databases
+### Databases
 | Name | Proficiency |
 |------|-------------|
-| <a href="">MySQL</a> | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ |  
-| <a href="">Postgres</a> | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ | 
-| <a href="">Oracle Database</a> | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ |  
-| <a href="">MongoDB</a> | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ |  
-| <a href="">LanceDB</a> | 🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪ |  
+| <a href="https://dev.mysql.com/">MySQL</a> | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ |  
+| <a href="https://www.postgresql.org/">PostgreSQL</a> | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ | 
+| <a href="https://www.oracle.com/in/database/">Oracle Database</a> | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ |  
+| <a href="https://www.mongodb.com/">MongoDB</a> | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ |  
+| <a href="https://lancedb.com/">LanceDB</a> | 🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪ |  
 
-### 🟠 BI & Other Tools
+### Business Intelligence
 | Name | Proficiency |
 |------|-------------|
-| <a href="">Microsoft Power BI</a> | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ |  
-| <a href="">Microsoft Excel</a> | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ | 
-| <a href="">Git</a> | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ |  
+| <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi">Microsoft Power BI</a> | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ |  
+| <a href="https://www.microsoft.com/en/microsoft-365/excel">Microsoft Excel</a> | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ |  
 
+### Version Control
+| Name | Proficiency |
+|------|-------------|
+| <a href="https://git-scm.com/">Git</a> | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ |  🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ | 
+
+### Other tools
+| Name | Proficiency |
+|------|-------------|
+| <a href="https://www.postman.com/">Postman</a> | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ |  
+| <a href="https://mongoosejs.com/">Mongoose</a> | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ |  
 ---
